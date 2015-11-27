@@ -1,2 +1,16 @@
 WARN  - slowQueries                - List ee.itcollege.webtest.dao.AbstractDao.getAll() took 133ms
 WARN  - slowQueries                - List ee.itcollege.webtest.dao.AbstractDao.getAll() took 129ms
+WARN  - slowQueries                - List ee.itcollege.webtest.dao.AbstractDao.getAll() took 134ms
+WARN  - slowQueries                - List ee.itcollege.webtest.dao.AbstractDao.getAll() took 131ms
+WARN  - slowQueries                - List ee.itcollege.webtest.dao.AbstractDao.getAll() took 132ms
+WARN  - slowQueries                - List ee.itcollege.webtest.dao.AbstractDao.getAll() took 137ms
+WARN  - slowQueries                - List ee.itcollege.webtest.dao.AbstractDao.getAll() took 133ms
+WARN  - slowQueries                - List ee.itcollege.webtest.dao.AbstractDao.getAll() took 133ms
+WARN  - slowQueries                - List ee.itcollege.webtest.dao.AbstractDao.getAll() took 137ms
+WARN  - slowQueries                - List ee.itcollege.webtest.dao.AbstractDao.getAll() took 134ms
+WARN  - slowQueries                - List ee.itcollege.webtest.dao.AbstractDao.getAll() took 133ms
+WARN  - slowQueries                - List ee.itcollege.webtest.dao.AbstractDao.getAll() took 133ms
+WARN  - slowQueries                - List ee.itcollege.webtest.dao.AbstractDao.getAll() took 129ms
+WARN  - slowQueries                - List ee.itcollege.webtest.dao.AbstractDao.getAll() took 132ms
+WARN  - slowQueries                - List ee.itcollege.webtest.dao.AbstractDao.getAll() took 184ms
+WARN  - slowQueries                - List ee.itcollege.webtest.service.PersonService.getPersons() took 184ms

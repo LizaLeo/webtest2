@@ -24,9 +24,11 @@ import org.apache.wicket.model.LoadableDetachableModel;
 import org.apache.wicket.request.mapper.parameter.PageParameters;
 import org.apache.wicket.spring.injection.annot.SpringBean;
 
+import ee.itcollege.webtest.annotation.SlowQueries;
 import ee.itcollege.webtest.entity.Person;
 import ee.itcollege.webtest.service.PersonService;
 
+@SlowQueries
 public class PersonsPage extends WebPage {
 	
 	private static Logger LOG = Logger.getLogger(PersonsPage.class);
