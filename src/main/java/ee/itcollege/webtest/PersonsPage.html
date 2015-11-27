@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html xmlns:wicket="http://wicket.apache.org">
+	<head>
+		<meta charset="utf-8" />
+		<title>Persons</title>
+	</head>
+	<body>
+		<form wicket:id="add-person-form">
+			<input wicket:id="name" type="text" />
+			<a href="#" wicket:id="add-person">Add person</a>
+		</form>
+		
+		<div wicket:id="list-container">
+			<div wicket:id="person">
+				<span wicket:id="name">[this will be replaced]</span>
+				<a href="#" wicket:id="delete">kustuta</a>
+			</div>
+		</div>
+	</body>
+</html>

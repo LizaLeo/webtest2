@@ -1,0 +1,2 @@
+WARN  - slowQueries                - List ee.itcollege.webtest.dao.AbstractDao.getAll() took 133ms
+WARN  - slowQueries                - List ee.itcollege.webtest.dao.AbstractDao.getAll() took 129ms
